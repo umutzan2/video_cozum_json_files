@@ -1,0 +1,16 @@
+[
+    {
+        "text": "Başlık",
+        "type": "page",
+        "page_link": "null",
+        "site_link": "null",
+        "video_link": "null"
+    },
+    {
+        "text": "Videp",
+        "type": "link",
+        "page_link": "null",
+        "site_link": "null",
+        "video_link": "video.com/video.mp4"
+    }
+]

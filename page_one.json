@@ -1,23 +1,12 @@
 [
     {
-        "text": "Sitemiz",
-        "type": "link",
-        "page_link": "null",
-        "site_link": "umutzan.dev",
-        "video_link": "null"
+        "text": "Başlık",
+        "type": "page",
+        "link": "https://json.linyit.net/page_one.json"
     },
     {
-        "text": "Sitemiz",
-        "type": "link",
-        "page_link": "null",
-        "site_link": "umutzan.dev",
-        "video_link": "null"
-    },
-    {
-        "text": "Videp",
-        "type": "link",
-        "page_link": "null",
-        "site_link": "null",
-        "video_link": "video.com/video.mp4"
+        "text": "Başlık",
+        "type": "page",
+        "link": "https://json.linyit.net/page_one.json"
     }
 ]

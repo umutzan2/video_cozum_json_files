@@ -2,15 +2,11 @@
     {
         "text": "Başlık",
         "type": "page",
-        "page_link": "https://json.linyit.net/page_one.json",
-        "site_link": "null",
-        "video_link": "null"
+        "link": "https://json.linyit.net/page_one.json"
     },
     {
-        "text": "Videp",
-        "type": "link",
-        "page_link": "null",
-        "site_link": "null",
-        "video_link": "video.com/video.mp4"
+        "text": "Başlık",
+        "type": "page",
+        "link": "https://json.linyit.net/page_one.json"
     }
 ]
